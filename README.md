@@ -35,4 +35,4 @@ else if (choice1 === "paper") {
 };
 
 compare (userChoice, computerChoice);
-// Want to edit code, add design etc. 
+
